@@ -14,7 +14,7 @@ Run `gem install pronto-yamllint`
 
 ## Configuration
 
-* (if needed) set `YAMLLINT_OPTS` environment variable with yamllint [options](https://yamllint.readthedocs.io/en/latest/configuration.html). They will be passed to yamllint.
+(If needed) set `YAMLLINT_OPTS` environment variable with yamllint [options](https://yamllint.readthedocs.io/en/latest/configuration.html). They will be passed to yamllint.
 
 ## Usage
 
