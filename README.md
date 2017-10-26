@@ -1,5 +1,6 @@
 # Pronto runner for ShellCheck
 
+[![Gem Version](https://badge.fury.io/rb/pronto-yamllint.svg)](https://badge.fury.io/rb/pronto-yamllint)
 
 Pronto runner for [YAMLlint](https://yamllint.readthedocs.io). [What is Pronto?](https://github.com/prontolabs/pronto)
 
