@@ -29,4 +29,4 @@ pronto run --exit-code
 
 ## Changelog
 
-0.1.0 Initial public version
+0.1.0 Initial public version. Based heavily on https://kevinjalbert.com/create-your-own-pronto-runner/
