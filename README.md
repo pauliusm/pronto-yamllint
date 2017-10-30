@@ -1,4 +1,4 @@
-# Pronto runner for ShellCheck
+# Pronto runner for YAMLlint
 
 [![Gem Version](https://badge.fury.io/rb/pronto-yamllint.svg)](https://badge.fury.io/rb/pronto-yamllint)
 
