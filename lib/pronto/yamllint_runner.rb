@@ -3,7 +3,7 @@ require 'shellwords'
 
 module Pronto
   # runner for yamllint
-  class YAMLLintRunner < Runner
+  class YAMLLint < Runner
     def yamllint_opts
       ENV['YAMLLINT_OPTS']
     end
