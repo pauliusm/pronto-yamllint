@@ -3,7 +3,7 @@ require 'pronto/yamllint_version'
 
 Gem::Specification.new do |s|
   s.name        = 'pronto-yamllint'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.date        = '2017-10-25'
   s.summary     = 'Pronto runner for yamllint'
   s.description = 'Enables pronto to check .yaml files using yamllint'
