@@ -2,7 +2,7 @@ $LOAD_PATH.push File.expand_path('../lib', __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = 'pronto-yamllint'
-  s.version     = '0.1.1'
+  s.version     = '0.1.2'
   s.date        = '2017-10-25'
   s.summary     = 'Pronto runner for yamllint'
   s.description = 'Enables pronto to check .yaml files using yamllint'
@@ -14,5 +14,5 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
 
   s.requirements << 'yamllint (in PATH)'
-  s.add_dependency('pronto', '~> 0.9.0')
+  s.add_dependency('pronto', '~> 0.10.0')
 end
