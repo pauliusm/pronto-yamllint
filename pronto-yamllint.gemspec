@@ -14,5 +14,5 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
 
   s.requirements << 'yamllint (in PATH)'
-  s.add_dependency('pronto', '~> 0.10.0')
+  s.add_dependency('pronto', '~> 0.11.0')
 end
