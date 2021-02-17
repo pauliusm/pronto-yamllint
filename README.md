@@ -29,6 +29,8 @@ pronto run --exit-code
 
 ## Changelog
 
+0.2.0 Depend on Pronto 0.11.0
+
 0.1.2 Depend on Pronto 0.10.0
 
 0.1.1 Misc small fixes
