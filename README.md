@@ -1,6 +1,7 @@
 # Pronto runner for YAMLlint
 
 [![Gem Version](https://badge.fury.io/rb/pronto-yamllint.svg)](https://badge.fury.io/rb/pronto-yamllint)
+[![Maintainability](https://api.codeclimate.com/v1/badges/e37c119ca4a0e00f95c3/maintainability)](https://codeclimate.com/github/pauliusm/pronto-yamllint/maintainability)
 
 Pronto runner for [YAMLlint](https://yamllint.readthedocs.io). [What is Pronto?](https://github.com/prontolabs/pronto)
 
